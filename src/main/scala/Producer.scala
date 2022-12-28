@@ -13,7 +13,6 @@
   * See the License for the specific language governing permissions and
   * limitations under the License.
   */
-package io.confluent.examples.clients.scala
 
 import java.io.FileReader
 import java.util.Properties
